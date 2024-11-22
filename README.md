@@ -8,8 +8,12 @@ L’Application de Gestion des Invités est un projet académique innovant déve
 ✨ Gestion des Invités (CRUD) :Créer, consulter, modifier et supprimer facilement les informations relatives aux invités.
 
 🔍 Recherche et Tri Avancés :Optimisez la gestion grâce à des options de tri et des fonctionnalités de recherche performantes.
+
 📂 Importation et Exportation:Gérez les données efficacement avec la possibilité d’exporter/importer les listes d’invités sous Excel et PDF.
+
 📊 Interface Interactive:Vues interactives et notifications desktop pour une expérience utilisateur fluide et moderne.
+
+
 🤖 Intégration avec Arduino:L’intégration de composants Arduino enrichit l’application avec des fonctionnalités matérielles :
 
 Détection en Temps Réel : Identifiez les invités via des dispositifs électroniques connectés.
