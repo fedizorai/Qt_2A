@@ -25,6 +25,7 @@ LED Rouge : Accès refusé.
 
 Alerte Sonore : Activez un buzzer pour signaler la validation ou le refus d’un invité.
 
+
 💻 Technologies Utilisées
 
 Développement : Qt Creator
