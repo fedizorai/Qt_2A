@@ -2,6 +2,7 @@ Application de Gestion des Invités
 L’Application de Gestion des Invités est un projet académique innovant développé avec Qt Creator, combiné à une base de données robuste gérée à l’aide d’Oracle SQL Developer. Cette application propose une solution complète et intuitive pour faciliter la gestion des invités dans différents contextes, en alliant fonctionnalités avancées et interactivité.
 
 🌟 Caractéristiques Principales
+
 🔒 Connexion Sécurisée :Authentification fiable pour protéger l’accès à l’application et garantir la confidentialité des données.
 
 ✨ Gestion des Invités (CRUD) :Créer, consulter, modifier et supprimer facilement les informations relatives aux invités.
