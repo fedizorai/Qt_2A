@@ -31,6 +31,8 @@ Développement : Qt Creator
 Base de Données : Oracle SQL Developer
 Matériel : Arduino (capteurs, écran LCD, LEDs, buzzer)
 Exportation de Données : Fichiers Excel et PDF
+
+
 🔗 Conclusion
 Ce projet allie les technologies modernes et les fonctionnalités pratiques pour offrir une gestion fluide, interactive et efficace des invités, tout en renforçant l'expérience utilisateur grâce à l'intégration de dispositifs électroniques.
 
