@@ -1,39 +1,43 @@
 Application de Gestion des Invités
-L’Application de Gestion des Invités est un projet académique innovant développé avec Qt Creator, combiné à une base de données robuste gérée à l’aide d’Oracle SQL Developer. Cette application propose une solution complète et intuitive pour faciliter la gestion des invités dans différents contextes, en alliant fonctionnalités avancées et interactivité.
 
-🌟 Caractéristiques Principales
-
-🔒 Connexion Sécurisée :Authentification fiable pour protéger l’accès à l’application et garantir la confidentialité des données.
-
-✨ Gestion des Invités (CRUD) :Créer, consulter, modifier et supprimer facilement les informations relatives aux invités.
-
-🔍 Recherche et Tri Avancés :Optimisez la gestion grâce à des options de tri et des fonctionnalités de recherche performantes.
-
-📂 Importation et Exportation:Gérez les données efficacement avec la possibilité d’exporter/importer les listes d’invités sous Excel et PDF.
-
-📊 Interface Interactive:Vues interactives et notifications desktop pour une expérience utilisateur fluide et moderne.
+It's an innovative academic project developed using Qt Creator, combined with a robust database managed through Oracle SQL Developer. 
+This application provides a comprehensive and intuitive solution for managing guests in various contexts, blending advanced features with interactivity.
 
 
-🤖 Intégration avec Arduino:L’intégration de composants Arduino enrichit l’application avec des fonctionnalités matérielles :
+🌟 Key Features
 
-Détection en Temps Réel : Identifiez les invités via des dispositifs électroniques connectés.
-Messages LCD Personnalisés : Affichez des messages sur un écran LCD pour guider les utilisateurs.
+🔒 Secure Login: Reliable authentication ensures secure access and maintains data confidentiality.
 
-LED d’Accès :
-LED Verte : Accès autorisé.
-LED Rouge : Accès refusé.
+✨ Guest Management (CRUD): Easily create, view, update, and delete guest information.
 
-Alerte Sonore : Activez un buzzer pour signaler la validation ou le refus d’un invité.
+🔍 Advanced Search and Sorting: Optimize management with powerful sorting and search functionalities.
 
+📂 Import and Export: Manage data efficiently with options to export/import guest lists in Excel and PDF formats.
 
-💻 Technologies Utilisées
-
-Développement : Qt Creator
-Base de Données : Oracle SQL Developer
-Matériel : Arduino (capteurs, écran LCD, LEDs, buzzer)
-Exportation de Données : Fichiers Excel et PDF
+📊 Interactive Interface: Enjoy an engaging user experience with interactive views and desktop notifications.
 
 
-🔗 Conclusion
-Ce projet allie les technologies modernes et les fonctionnalités pratiques pour offrir une gestion fluide, interactive et efficace des invités, tout en renforçant l'expérience utilisateur grâce à l'intégration de dispositifs électroniques.
+🤖 Arduino Integration 
+The integration of Arduino components enhances the application with hardware functionalities:
 
+Real-Time Detection: Identify guests using connected electronic devices.
+
+Personalized LCD Messages: Display messages on an LCD screen to guide users.
+
+Access LEDs:
+
+🟢 Green LED: Access granted.
+
+🔴 Red LED: Access denied.
+
+Sound Alert: Activate a buzzer to indicate validation or denial of a guest.
+
+💻 Technologies Used
+
+Development: Qt Creator
+
+Database: Oracle SQL Developer
+
+Hardware: Arduino (sensors, LCD screen, LEDs, buzzer)
+
+Data Export: Excel and PDF files.
