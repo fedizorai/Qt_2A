@@ -38,6 +38,6 @@ Development: Qt Creator
 
 Database: Oracle SQL Developer
 
-Hardware: Arduino (sensors, LCD screen, LEDs, buzzer)
+Hardware: Arduino (sensors, LCD screen, LEDs, buzzer).
 
 Data Export: Excel and PDF files.
